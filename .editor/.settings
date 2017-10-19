@@ -1,0 +1,14 @@
+# tabs and whitespace
+tabs_equals_whitespace = 4
+
+# number of characters per line
+chars_per_line = 70
+
+# project basepath
+/user/fake/home/path/
+
+# show line numbers
+show_line_numbers = true
+
+# selected theme
+current_theme = "Dark Theme"
